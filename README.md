@@ -10,6 +10,9 @@ The test set has 3,000 images.
 The prediction set includes 7,000 images.
 
 Dataset Source: [Intel Image Classification Dataset on Kaggle](https://www.kaggle.com/puneet6060/intel-image-classification)
+- The dataset is also available as a zip archive. To use it:
+  - Download [CNNDataset.zip](CNNDataset.zip).
+
 
 ## Requirements
 - Python 3.x
