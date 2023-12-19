@@ -22,3 +22,7 @@ Install the required packages using the following command:
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Usage
+- Open and run the Jupyter Notebook: [ImageClassification_CNN.ipynb](ImageClassification_CNN.ipynb)
