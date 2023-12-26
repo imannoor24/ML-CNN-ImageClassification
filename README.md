@@ -1,5 +1,14 @@
 # Image Classification with Convolutional Neural Network
 
+
+## Table of Contents
+- [Dataset](#dataset)
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [Imported Dataset](#imported-dataset)
+- [Training Model](#training-model)
+
+- 
 This repository contains code for building and training a Convolutional Neural Network (CNN) for image classification. The model is trained on a dataset of natural scenes. 
 Dataset has been categorized into six classes: 'buildings', 'forest', 'glacier', 'mountain', 'sea', and 'street'.
 
