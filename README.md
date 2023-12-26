@@ -2,13 +2,14 @@
 
 
 ## Table of Contents
+- [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [Imported Dataset](#imported-dataset)
 - [Training Model](#training-model)
 
-- 
+## Introduction
 This repository contains code for building and training a Convolutional Neural Network (CNN) for image classification. The model is trained on a dataset of natural scenes. 
 Dataset has been categorized into six classes: 'buildings', 'forest', 'glacier', 'mountain', 'sea', and 'street'.
 
@@ -39,8 +40,9 @@ pip install -r requirements.txt
 
 
 ## The imported dataset appears as
-![image](https://github.com/imannoor24/ML-CNN-ImageClassification/assets/138428244/60399df9-69b5-4b34-8971-8142d62e4c5b)
+![image](https://github.com/imannoor24/ML-CNN-ImageClassification/assets/138428244/1420ba01-ef10-40f7-bd8a-7a212ae1fe84)
+
 
 ## The trainign model accuracy and loss graphs:
-![image](https://github.com/imannoor24/ML-CNN-ImageClassification/assets/138428244/18354993-bacf-49a8-a4a5-4114b09127c5)
-![image](https://github.com/imannoor24/ML-CNN-ImageClassification/assets/138428244/84099a4c-e2f7-4e0d-b5ce-b8f0ec468123)
+![image](https://github.com/imannoor24/ML-CNN-ImageClassification/assets/138428244/51763c33-514e-4746-97db-530214a7f6e4)
+
