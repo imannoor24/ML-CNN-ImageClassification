@@ -39,10 +39,10 @@ pip install -r requirements.txt
 - Open and run the Jupyter Notebook: [ImageClassification_CNN.ipynb](ImageClassification_CNN.ipynb)
 
 
-## The imported dataset appears as
+## Imported Dataset
 ![image](https://github.com/imannoor24/ML-CNN-ImageClassification/assets/138428244/1420ba01-ef10-40f7-bd8a-7a212ae1fe84)
 
 
-## The trainign model accuracy and loss graphs:
+## The training model accuracy and loss graphs:
 ![image](https://github.com/imannoor24/ML-CNN-ImageClassification/assets/138428244/51763c33-514e-4746-97db-530214a7f6e4)
 
