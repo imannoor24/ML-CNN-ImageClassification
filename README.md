@@ -7,7 +7,7 @@
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [Imported Dataset](#imported-dataset)
-- [Training Model](#training-model)
+- [Accuracy and Loss Graphs](#graphs)
 
 ## Introduction
 This repository contains code for building and training a Convolutional Neural Network (CNN) for image classification. The model is trained on a dataset of natural scenes. 
@@ -43,6 +43,7 @@ pip install -r requirements.txt
 ![image](https://github.com/imannoor24/ML-CNN-ImageClassification/assets/138428244/1420ba01-ef10-40f7-bd8a-7a212ae1fe84)
 
 
-## The training model accuracy and loss graphs:
+## Graphs:
+#### Training and Testing Graphs of Accuracy and Loss
 ![image](https://github.com/imannoor24/ML-CNN-ImageClassification/assets/138428244/51763c33-514e-4746-97db-530214a7f6e4)
 
